@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Environment files
+.env
+
+# Build files
+dist/
+build/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# npm package lock file (optional, if you want it ignored)
+package-lock.json
